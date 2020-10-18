@@ -4,7 +4,7 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>freefemplusplus</id>
-    <version>4.7</version>
+    <version>4.7.1</version>
     <packageSourceUrl>https://github.com/overag3/freefemplusplus</packageSourceUrl>
     <owners>overage, gfe</owners>
     <!-- ============================== -->
@@ -13,6 +13,7 @@
     <title>FreeFEM++</title>
     <authors>FreeFEM</authors>
     <projectUrl>http://www3.freefem.org/</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/overag3/freefemplusplus/freefem.png</iconUrl>
     <tags>freefemplusplus equation solver</tags>
     <projectSourceUrl>https://github.com/FreeFem/FreeFem-sources</projectSourceUrl>
     <docsUrl>https://doc.freefem.org/</docsUrl>
